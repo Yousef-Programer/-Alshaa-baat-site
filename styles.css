@@ -237,6 +237,18 @@ hr {
     transform: scale(1.1);
 }
 
+.workTitle {
+    text-align: center;
+    color: #eeeeee;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 700;
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    background-color: rgba(0, 173, 181, 0.15);
+    border-radius: 8px;
+}
+
 /* 6. قسم التواصل (Contact) */
 .Contact {
     max-width: 1200px;
